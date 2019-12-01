@@ -1,0 +1,1 @@
+apt install firmware-iwlwifi firefox-esr cmus neovim emacs rxvt-unicode neofetch fonts-noto fonts-noto-cjk p7zip zip unzip gzip alsa-utils fish ffmpeg fonts-dejavu nitrogen imagemagick wpasupplicant wpagui rofi xbindkeys xorg sudo mpv weechat feh lemonbar evilwm
